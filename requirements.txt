@@ -1,0 +1,5 @@
+torchmetrics
+torchvision
+tqdm
+torch
+tensorboard
